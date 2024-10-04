@@ -50,7 +50,7 @@ volume    = {361}
 | page | error |
 |:-----|:------|
 |p65 | Reference [YGd19]: First author should be "İhsan Yanıkoğlu" |
-|p117 | Corollary 5.11: $\|\pmb{x}\|_p$ should be $\|\pmb{v}(\pmb{x})\|_p$ |
+|p117 | Corollary 5.11: $\Vert\pmb{x}\Vert_p$ should be $\Vert\pmb{v}(\pmb{x})\Vert_p$ |
 
 If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
