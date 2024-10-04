@@ -3,5 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: Companion Page
 description: A companion page for "An Introduction to Robust and Combinatorial Optimization" by Marc Goerigk and Michael Hartisch
+logo: /logo.png
 github:
   is_project_page: false
