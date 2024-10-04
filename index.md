@@ -57,20 +57,17 @@ If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
 ## Lecture notes
 
-> Page under construction.
-
 Below, we make LaTeX sources available for a potential Master's level, one-semester course based on our book. Each lecture represents a 90-minute session. Please feel free to use and adapt to your own needs.
 
-* all lecture note sources
+* [all lecture note sources](/notes/all.zip)
 * [Lecture 1](/notes/01.zip)
 * [Lecture 2](/notes/02.zip)
-* Lecture 3
-* Lecture 4
-* Lecture 5
-* Lecture 6
-* Lecture 7
-* Lecture 8
-* Lecture 9
-* Lecture 10
-* Lecture 11
-* Lecture 12
+* [Lecture 3](/notes/03.zip)
+* [Lecture 4](/notes/04.zip)
+* [Lecture 5](/notes/05.zip)
+* [Lecture 6](/notes/06.zip)
+* [Lecture 7](/notes/07.zip)
+* [Lecture 8](/notes/08.zip)
+* [Lecture 9](/notes/09.zip)
+* [Lecture 10](/notes/10.zip)
+* [Lecture 11](/notes/11.zip)
