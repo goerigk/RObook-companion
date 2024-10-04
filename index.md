@@ -71,3 +71,7 @@ Below, we make LaTeX sources available for a potential Master's level, one-semes
 * [Lecture 9](/notes/09.zip)
 * [Lecture 10](/notes/10.zip)
 * [Lecture 11](/notes/11.zip)
+
+* * *
+
+_Last update: 04 October 2024_
