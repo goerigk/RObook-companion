@@ -57,3 +57,5 @@ If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
 ## Lecture notes
 
+* [Lecture 1](/notes/01.zip)
+
