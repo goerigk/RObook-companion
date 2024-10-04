@@ -8,6 +8,7 @@ The purpose of this page is to collect errors in the text, and to provide additi
 
 If you find the book useful, please cite us. The following bibtex entry can be used:
 
+```bibtex
 @book{robook,
   author    = {Marc Goerigk and Michael Hartisch},
   year      = {2024},
@@ -17,6 +18,11 @@ subtitle = {Concepts, Models and Algorithms for Decision Making under Uncertaint
 series={International Series in Operations Research \& Management Science},
 volume={361}
 }
+```
 
 ##Errata
 
+| page | error |
+|:-----|:------|
+|p42|text|
+|p12 | longer text that does not fit here|
