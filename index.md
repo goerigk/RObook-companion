@@ -24,7 +24,7 @@ volume={361}
 }
 ```
 
-##Errata
+## Errata
 
 | page | error |
 |:-----|:------|
@@ -34,5 +34,5 @@ volume={361}
 If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
 
-##Lecture notes
+## Lecture notes
 
