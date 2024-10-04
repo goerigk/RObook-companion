@@ -12,13 +12,13 @@ The purpose of this page is to collect errors in the text, and to provide additi
 
 If you find the book useful, please cite us. The following bibtex entry can be used:
 
-```
+```bibtex
 @book{robook,
-  author    = {Marc Goerigk and Michael Hartisch},
-  year      = {2024},
-  title     = {An Introduction to Robust Combinatorial Optimization},
+author    = {Marc Goerigk and Michael Hartisch},
+year      = {2024},
+title     = {An Introduction to Robust Combinatorial Optimization},
 subtitle = {Concepts, Models and Algorithms for Decision Making under Uncertainty},
-  publisher = {Springer},
+publisher = {Springer},
 series={International Series in Operations Research \& Management Science},
 volume={361}
 }
@@ -28,5 +28,11 @@ volume={361}
 
 | page | error |
 |:-----|:------|
-|p42|text|
-|p12 | longer text that does not fit here|
+|p65 | Reference [YGd19]: First author should be "İhsan Yanıkoğlu" |
+|p117 | Corollary 5.11: $\|\pmb{x}\|_p$ should be $\|\pmb{v}(\pmb{x})\|_p$ |
+
+If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
+
+
+##Lecture notes
+
