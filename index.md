@@ -57,7 +57,8 @@ If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
 ## Lecture notes
 
-[todo] under construction
+> [!NOTE]
+> Page under construction.
 
 Below, we make LaTeX sources available for a potential Master's level, one-semester course based on our book. Each lecture represents a 90-minute session. Please feel free to use and adapt to your own needs.
 
