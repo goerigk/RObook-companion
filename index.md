@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
+
 # An Introduction to Robust Combinatorial Optimization
 
 Welcome to this companion page to our book published with Springer, which you can find [here](https://doi.org/10.1007/978-3-031-61261-9).
@@ -17,10 +23,10 @@ If you find the book useful, please cite us. The following bibtex entry can be u
 author    = {Marc Goerigk and Michael Hartisch},
 year      = {2024},
 title     = {An Introduction to Robust Combinatorial Optimization},
-subtitle = {Concepts, Models and Algorithms for Decision Making under Uncertainty},
+subtitle  = {Concepts, Models and Algorithms for Decision Making under Uncertainty},
 publisher = {Springer},
-series={International Series in Operations Research \& Management Science},
-volume={361}
+series    = {International Series in Operations Research \& Management Science},
+volume    = {361}
 }
 ```
 
