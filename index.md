@@ -53,18 +53,18 @@ In addition to the errors that were in our manuscript, it turned out that the pu
 |:-----|:------|
 |p65 | Reference [YGd19]: First author should be "İhsan Yanıkoğlu" |
 |p92 | $\Pi$ is sometimes in italics, sometimes not. It is the same symbol. |
-|p110ff. | $\mathbb{R}^{[n]}_{\ge 0}$ should be $\mathbb{R}^n_{\ge 0}$ (multiple cases in Section 5.2.1) |
+|p110ff. | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ (multiple cases in Section 5.2.1) |
 |p117 | Corollary 5.11: $\Vert\pmb{x}\Vert_p$ should be $\Vert\pmb{v}(\pmb{x})\Vert_p$ |
-|p127 | $\mathbb{Z}^{[n]}_{> 0}$ should be $\mathbb{Z}^n_{> 0}$ |
+|p127 | $\mathbb{Z}^{[n]}\_{> 0}$ should be $\mathbb{Z}^n\_{> 0}$ |
 |p135 | author in [BGK23] should be Christina Büsing |
 |p136 | author in [KZ06] should be Paweł Zieliński |
 |p182 | author in [GKZ20], [GKZ22], [KKZ13], [KZ09], [KZ17] should be Paweł Zieliński |
 |p205f | author in [KZ06], [KZ07], [KZ09], [KZ17], [KZ18], [Zie04] should be Paweł Zieliński |
-|p246ff | $\mathbb{R}^{[n]}_{\ge 0}$ should be $\mathbb{R}^n_{\ge 0}$ and $\mathbb{Z}^{[n]}_{\ge 0}$ should be $\mathbb{Z}^n_{\ge 0}$ (multiple cases with different variants in Section 9.4 and 9.7) |
+|p246ff | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ and $\mathbb{Z}^{[n]}_{\ge 0}$ should be $\mathbb{Z}^n_{\ge 0}$ (multiple cases with different variants in Section 9.4 and 9.7) |
 |p258 | author in [KKZ12b], [KZ14] should be Paweł Zieliński |
-|p268 | $\mathbb{R}^{[K]}_{\ge 0}$ should be $\mathbb{R}^K_{\ge 0}$ |
-|p272f | $\mathbb{Z}^{[n]}_{\ge 0}$ should be $\mathbb{Z}^n_{\ge 0}$ |
-|p280ff | $\mathbb{R}^{[n]}_{\ge 0}$ should be $\mathbb{R}^n_{\ge 0}$ (multiple cases with different variants in Section 10.4) |
+|p268 | $\mathbb{R}^{[K]}\_{\ge 0}$ should be $\mathbb{R}^K\_{\ge 0}$ |
+|p272f | $\mathbb{Z}^{[n]}\_{\ge 0}$ should be $\mathbb{Z}^n\_{\ge 0}$ |
+|p280ff | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ (multiple cases with different variants in Section 10.4) |
 
 If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
