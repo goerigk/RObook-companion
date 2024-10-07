@@ -60,7 +60,7 @@ In addition to the errors that were in our manuscript, it turned out that the pu
 |p136 | author in [KZ06] should be Paweł Zieliński |
 |p182 | author in [GKZ20], [GKZ22], [KKZ13], [KZ09], [KZ17] should be Paweł Zieliński |
 |p205f | author in [KZ06], [KZ07], [KZ09], [KZ17], [KZ18], [Zie04] should be Paweł Zieliński |
-|p246ff | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ and $\mathbb{Z}^{[n]}_{\ge 0}$ should be $\mathbb{Z}^n_{\ge 0}$ (multiple cases with different variants in Section 9.4 and 9.7) |
+|p246ff | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ and $\mathbb{Z}^{[n]}\_{\ge 0}$ should be $\mathbb{Z}^n\_{\ge 0}$ (multiple cases with different variants in Section 9.4 and 9.7) |
 |p258 | author in [KKZ12b], [KZ14] should be Paweł Zieliński |
 |p268 | $\mathbb{R}^{[K]}\_{\ge 0}$ should be $\mathbb{R}^K\_{\ge 0}$ |
 |p272f | $\mathbb{Z}^{[n]}\_{\ge 0}$ should be $\mathbb{Z}^n\_{\ge 0}$ |
