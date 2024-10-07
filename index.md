@@ -53,7 +53,7 @@ In addition to the errors that were in our manuscript, it turned out that the pu
 |:-----|:------|
 |p65 | Reference [YGd19]: First author should be "İhsan Yanıkoğlu" |
 |p92 | $\Pi$ is sometimes in italics, sometimes not. It is the same symbol. |
-|p110ff. | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ (multiple cases in Section 5.2.1) |
+|p110ff | $\mathbb{R}^{[n]}\_{\ge 0}$ should be $\mathbb{R}^n\_{\ge 0}$ (multiple cases in Section 5.2.1) |
 |p117 | Corollary 5.11: $\Vert\pmb{x}\Vert_p$ should be $\Vert\pmb{v}(\pmb{x})\Vert_p$ |
 |p127 | $\mathbb{Z}^{[n]}\_{> 0}$ should be $\mathbb{Z}^n\_{> 0}$ |
 |p135 | author in [BGK23] should be Christina Büsing |
