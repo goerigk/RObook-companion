@@ -89,4 +89,4 @@ Below, we make LaTeX sources available for a potential Master's level, one-semes
 
 * * *
 
-_Last update: 07 October 2024_
+_Last update: 21 October 2024_
