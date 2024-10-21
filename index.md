@@ -71,7 +71,7 @@ If you spot further mistakes, please contact us at <marc.goerigk@uni-passau.de>.
 
 ## Lecture notes
 
-Below, we make LaTeX sources available for a potential Master's level, one-semester course based on our book. Each lecture represents a 90-minute session. Please feel free to use and adapt to your own needs.
+Below, we make LaTeX sources available for a potential Master's level, one-semester course based on our book. Each lecture represents a 90-minute session. Additionally, we provide exercises that can be done in a 90 minute tutorial class corresponding to each lecture. Please feel free to use and adapt to your own needs.
 
 * [all lecture note sources](/notes/all.zip)
 * [Lecture 1](/notes/01.zip)
@@ -85,6 +85,7 @@ Below, we make LaTeX sources available for a potential Master's level, one-semes
 * [Lecture 9](/notes/09.zip)
 * [Lecture 10](/notes/10.zip)
 * [Lecture 11](/notes/11.zip)
+* [Exercises](/notes/all-exercises.zip)
 
 * * *
 
